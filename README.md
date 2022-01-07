@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sadashiv Badiger 
-- 🌱 I’m currently learning Data science master class 
 - 📫 How to reach me sadabadiger@gmail.com
 - 💬 Expertise in Data Science, Machine Learning, Deep Learning 
 
