@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sadabadiger
-- 👀 I’m interested in Artificial Intelligence 
+- 👋 Hi, I’m Sadashiv Badiger 
 - 🌱 I’m currently learning Data science master class 
-- 📫 You can reach me by mail- sadabadiger@gmail.com
+- 📫 How to reach me sadabadiger@gmail.com
+- 💬 Expertise in Data Science, Machine Learning, Deep Learning 
 
 <!---
 Sadabadiger/Sadabadiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
